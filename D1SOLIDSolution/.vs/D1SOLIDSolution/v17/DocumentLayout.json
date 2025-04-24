@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|d:\\iti\\solid\\labs\\lab 1\\d1solidsolution\\d1task01\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|solutionrelative:d1task01\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|d:\\iti\\solid\\labs\\lab 1\\d1solidsolution\\d1task01\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|solutionrelative:d1task01\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|d:\\iti\\solid\\labs\\lab 1\\d1solidsolution\\d1task01\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|solutionrelative:d1task01\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\SOLID\\Lectures\\D01\\Lab\\Lab_Tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|d:\\iti\\solid\\labs\\lab 1\\d1solidsolution\\d1task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE6C298-A8CC-42BF-8BBA-2A9204FF28B7}|D1Task01\\D1Task01.csproj|solutionrelative:d1task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Task3.cs",
+              "RelativeDocumentMoniker": "D1Task01\\Task3.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Task3.cs",
+              "RelativeToolTip": "D1Task01\\Task3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:07:19.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab_Tasks.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Lectures\\D01\\Lab\\Lab_Tasks.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lectures\\D01\\Lab\\Lab_Tasks.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Lectures\\D01\\Lab\\Lab_Tasks.cs",
+              "RelativeToolTip": "..\\..\\..\\Lectures\\D01\\Lab\\Lab_Tasks.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:43:55.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Task.cs",
+              "RelativeDocumentMoniker": "D1Task01\\Task.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Task.cs",
+              "RelativeToolTip": "D1Task01\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:41:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Task2.cs",
+              "RelativeDocumentMoniker": "D1Task01\\Task2.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Task2.cs",
+              "RelativeToolTip": "D1Task01\\Task2.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:02:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Program.cs",
+              "RelativeDocumentMoniker": "D1Task01\\Program.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Labs\\Lab 1\\D1SOLIDSolution\\D1Task01\\Program.cs",
+              "RelativeToolTip": "D1Task01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:41:13.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
